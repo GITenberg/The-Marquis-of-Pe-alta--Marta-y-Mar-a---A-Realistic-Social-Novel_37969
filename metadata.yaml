@@ -1,0 +1,41 @@
+_repo: The-Marquis-of-Pe-alta--Marta-y-Mar-a---A-Realistic-Social-Novel_37969
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Dole, Nathan Haskell
+    alias: Dole, Nathen Haskell
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '36286'
+    url: http://www.gutenberg.org/2009/agents/36286
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palacio Valdés, Armando
+    aliases:
+    - Palacio Valdes, Armando
+    - Valdés, Armando Palacio
+    birthdate: 1853
+    deathdate: 1938
+    gutenberg_agent_id: '4015'
+    url: http://www.gutenberg.org/2009/agents/4015
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+    - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+description: ''
+gutenberg_issued: '2011-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37969'
+  lccn: 08031902
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction -- Translations into English'
+- !lcc 'PQ'
+title: 'The Marquis of Peñalta (Marta y María): A Realistic Social Novel'
+url: http://www.gutenberg.org/ebooks/37969
