@@ -25,6 +25,8 @@ creator:
     - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
     - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37969#The-Marquis-of-Pe-alta--Marta-y-Mar-a---A-Realistic-Social-Novel
 gutenberg_issued: '2011-11-10'
 gutenberg_type: Text
 identifiers:
